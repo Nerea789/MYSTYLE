@@ -1,2 +1,0 @@
-# MYSTYLE
-Mi estilo
